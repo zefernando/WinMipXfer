@@ -1,0 +1,15 @@
+[mipTalk.c]
+[mipUtil.c]
+[mipXfer.c]
+[mipTcpIp.c]
+[getopt.c]
+[mipTcpIp.h]
+[mipXfer.h]
+[Windows]
+File1=teste.c,0,0,771,403,0,0
+File2=getopt.c,22,29,793,432,0,0
+File3=mipXfer.c,-4,-30,831,542,1,1
+File4=mipUtil.c,66,87,837,490,0,0
+File5=mipTcpIp.c,88,116,859,519,0,0
+File6=mipXfer.h,110,145,881,548,0,0
+File7=mipTalk.c,-4,-30,831,542,1,0

@@ -1,0 +1,87 @@
+19/03/106 12:06:53:  ****** session             ******
+19/03/106 12:06:53:  ******         starts      ******
+19/03/106 12:06:53:  ******                here ******
+19/03/106 12:06:53: Bulk File Type is: [AP]
+19/03/106 12:06:53: File Advisement Set
+19/03/106 12:06:53: Advisement Filter set to P
+19/03/106 12:06:53: Output File not in command line. OK
+19/03/106 12:06:53: output file not specified
+19/03/106 12:06:53: output file set to mipAdvis
+19/03/106 12:06:53: IpAddress id is "10.116.36.55"
+19/03/106 12:06:53: OUTPUT will be converted to ASCII
+19/03/106 12:06:53: On reception failure "./onFailure.sh" will run
+19/03/106 12:06:53: Max LOG file SIZE set to 1000000
+19/03/106 12:06:53: MIP Session
+19/03/106 12:06:53: Bulk File A    EndPoint 03752 Julian date is 
+19/03/106 12:06:53: Bulk Type is A
+19/03/106 12:06:53: Advisement Filter set to P
+19/03/106 12:07:06: Transfer INTERRUPTED by USER
+19/03/106 12:07:18:  ****** session             ******
+19/03/106 12:07:18:  ******         starts      ******
+19/03/106 12:07:18:  ******                here ******
+19/03/106 12:07:18: Bulk File Type is: [AP]
+19/03/106 12:07:18: File Advisement Set
+19/03/106 12:07:18: Advisement Filter set to P
+19/03/106 12:07:18: Output File not in command line. OK
+19/03/106 12:07:18: output file not specified
+19/03/106 12:07:18: output file set to mipAdvis
+19/03/106 12:07:18: IpAddress id is "10.116.36.55"
+19/03/106 12:07:18: OUTPUT will be converted to ASCII
+19/03/106 12:07:18: On reception failure "./onFailure.sh" will run
+19/03/106 12:07:18: Max LOG file SIZE set to 1000000
+19/03/106 12:07:18: MIP Session
+19/03/106 12:07:18: Bulk File A    EndPoint 03752 Julian date is 
+19/03/106 12:07:18: Bulk Type is A
+19/03/106 12:07:18: Advisement Filter set to P
+19/03/106 12:07:23: Transfer INTERRUPTED by USER
+03/05/106 20:01:40:  ****** session             ******
+03/05/106 20:01:40:  ******         starts      ******
+03/05/106 20:01:40:  ******                here ******
+03/05/106 20:01:40: Bulk File Type is: [AP]
+03/05/106 20:01:40: File Advisement Set
+03/05/106 20:01:40: Advisement Filter set to P
+03/05/106 20:01:40: Output File not in command line. OK
+03/05/106 20:01:40: output file not specified
+03/05/106 20:01:40: output file set to mipAdvises.txt
+03/05/106 20:01:40: IpAddress id is "10.116.36.55"
+03/05/106 20:01:40: OUTPUT will be converted to ASCII
+03/05/106 20:01:40: On reception failure "./onFailure.sh" will run
+03/05/106 20:01:40: Max LOG file SIZE set to 1000000
+03/05/106 20:01:40: MIP Session
+03/05/106 20:01:40: Bulk File A    EndPoint 03752 Julian date is    
+03/05/106 20:01:40: Bulk Type is A
+03/05/106 20:01:40: Advisement Filter set to P
+03/05/106 20:01:52: Transfer INTERRUPTED by USER
+03/05/106 20:06:05:  ****** session             ******
+03/05/106 20:06:05:  ******         starts      ******
+03/05/106 20:06:05:  ******                here ******
+03/05/106 20:06:05: Bulk File Type is: [T150]
+03/05/106 20:06:05: Output File not in command line. OK
+03/05/106 20:06:05: output file not specified
+03/05/106 20:06:05: output file will be generated
+03/05/106 20:06:05: IpAddress id is "10.116.36.55"
+03/05/106 20:06:05: OUTPUT will be converted to ASCII
+03/05/106 20:06:05: On reception failure "./onFailure.sh" will run
+03/05/106 20:06:05: Max LOG file SIZE set to 1000000
+03/05/106 20:06:05: MIP Session
+03/05/106 20:06:05: Bulk File T150 EndPoint 03752 Julian date is    
+03/05/106 20:06:05: Bulk Type is T
+03/05/106 20:06:05: CONNECT CONNECT CONNECT CONNECT CONNECT
+03/05/106 20:06:05: Starting File Receive
+03/05/106 20:06:11: Transfer INTERRUPTED by USER
+03/05/106 20:08:24:  ****** session             ******
+03/05/106 20:08:24:  ******         starts      ******
+03/05/106 20:08:24:  ******                here ******
+03/05/106 20:08:24: Bulk File Type is: [T150]
+03/05/106 20:08:24: Output File not in command line. OK
+03/05/106 20:08:24: output file not specified
+03/05/106 20:08:24: output file will be generated
+03/05/106 20:08:24: IpAddress id is "10.116.36.55"
+03/05/106 20:08:24: On reception failure "./onFailure.sh" will run
+03/05/106 20:08:24: Max LOG file SIZE set to 1000000
+03/05/106 20:08:24: MIP Session
+03/05/106 20:08:24: Bulk File T150 EndPoint 03752 Julian date is    
+03/05/106 20:08:24: Bulk Type is T
+03/05/106 20:08:24: CONNECT CONNECT CONNECT CONNECT CONNECT
+03/05/106 20:08:24: Starting File Receive
+03/05/106 20:08:36: Transfer INTERRUPTED by USER
